@@ -1,6 +1,7 @@
 # Twitter Bot Detection (capstone)
-My capstone project about Twitter bot detection. 
-I was responsible of creating and testing a random forest model to predict the possiblity of a Twitter account being a bot. I tried to make sure the model wasn't overfitting and learning the data as well as it can. 
+My capstone project about Twitter bot detection. You can find the full paper [here](https://ieeexplore.ieee.org/document/10296706) 🎯
+
+I was responsible for creating and testing a random forest model to predict the possibility of a Twitter account being a bot. I made sure the model wasn't overfitting and was learning the data as well as it could.
 We gathered around 307k user data and found nearly 15k possible bot accounts in the dataset we gathered. 
 
 I used diffrent datasets variations we created from the actual data we collected. 
